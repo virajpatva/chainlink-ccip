@@ -9,3 +9,4 @@ Learning about Chainlink Cross-Chain Interoperability Protocol
 Deployment
 
 1. Deploy Sender contract on Sepolia chain and than Receiver contract on mumbai chain
+2. once contract is deployed transfer link token to contract to pay the fees
